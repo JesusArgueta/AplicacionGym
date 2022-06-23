@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109101837662",
+    "project_id": "proyectogym-77f38",
+    "storage_bucket": "proyectogym-77f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109101837662:android:f9f70b38356d9b821fb3cf",
+        "android_client_info": {
+          "package_name": "com.argueta.proyectogym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109101837662-62ecrnqinb159g9dahacgvqq22c59vqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMDHiotgx4vu8dtHN9l1_QoRV3CCii3Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109101837662-62ecrnqinb159g9dahacgvqq22c59vqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

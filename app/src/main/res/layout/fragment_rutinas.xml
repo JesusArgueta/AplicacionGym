@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wave"
+    tools:context=".Fragments.RutinasFragment">
+
+
+    <Chronometer
+        android:id="@+id/chronometer"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:textStyle="bold"
+        android:textSize="50sp" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recview"
+        android:layout_width="match_parent"
+        android:layout_height="486dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="80dp" />
+
+    <Button
+    android:id="@+id/btniniciar"
+    android:layout_width="123dp"
+    android:layout_height="60dp"
+    android:layout_marginStart="140dp"
+    android:layout_marginTop="580dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+    android:text="START"
+    android:textSize="20dp"
+    android:textStyle="bold"></Button>
+
+    <Button
+        android:id="@+id/btnpausar"
+        android:layout_width="123dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="580dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:text="Pausar"
+        android:textSize="20dp"
+        android:textStyle="bold"></Button>
+
+    <Button
+        android:id="@+id/btnfinalizar"
+        android:layout_width="123dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="270dp"
+        android:layout_marginTop="580dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:text="FINALIZAR"
+        android:textSize="15dp"
+        android:textStyle="bold"></Button>
+
+
+
+</FrameLayout>

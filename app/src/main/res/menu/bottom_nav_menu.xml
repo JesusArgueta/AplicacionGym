@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Rutinas"
+        android:icon="@drawable/ic_baseline_fitness_center_24"
+        android:id="@+id/rutina"/>
+    <item android:title="Ejercicios"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:id="@+id/ejercicios"/>
+    <item android:title="Informe"
+        android:icon="@drawable/ic_baseline_bar_chart_24"
+        android:id="@+id/informe"/>
+    <item android:title="Yo"
+        android:icon="@drawable/ic_person"
+        android:id="@+id/yo"/>
+</menu>

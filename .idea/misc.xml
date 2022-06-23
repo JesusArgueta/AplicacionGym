@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/drawable-v24/ic_email.xml" value="0.1565" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/drawable-v24/ic_google.xml" value="0.1565" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.198" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.198" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/drawable-v24/ic_lock.xml" value="0.1565" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/drawable-v24/ic_person.xml" value="0.1565" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/drawable-v24/wave.xml" value="0.198" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/drawable/ic_baseline_bar_chart_24.xml" value="0.1565" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/drawable/ic_baseline_fitness_center_24.xml" value="0.1565" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1565" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_main.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_progreso.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_progreso_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_progreso_user2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_progreso_user_one.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_registro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_reset_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_rutina_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_rutinas_completas.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/activity_vista_administrador.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/fragment_ejercicios.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/fragment_ejercicios_rutina.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/fragment_elegir_rutina.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/fragment_informe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/fragment_rutinas.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/fragment_yo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/itemuser.xml" value="0.264" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/layout/singlerowdesign.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/menu/menu_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1845" />
+        <entry key="..\:/Users/argue/AndroidStudioProjects/ProyectoGym1/app/src/main/res/layout/fragment_ejercicios_rutina.xml" value="0.11302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
